@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BskOOzaSMQ9vSBALR5FsjKEvkRY5ZMnV8j3aH4SUnbxzcZvgLLsxzIEosdtt+RNcvf3cECK9Wi5VvuE6T/zj7Q==",
+  "success": true,
+  "projectFilePath": "/Users/jefferssonsemin/Documents/Back/NewsApi/NewsApi/NewsApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/jefferssonsemin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
